@@ -64,7 +64,7 @@ body{
     border: none;
 }
 .bg-img {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("./images/carousel-bg-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('./images/carousel-bg-1.jpg');
     height:700px;
     background-position: center center;
     background-repeat: no-repeat;
