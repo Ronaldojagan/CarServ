@@ -188,7 +188,7 @@ body{
     text-decoration: none;
 }
 .service-booing{
-    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('./images/carousel-bg-2.jpg') center center no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('./images/carousel-bg-2.jp') center center no-repeat;
     margin-top: 50px;
     background-size: cover;
     height:350px;
