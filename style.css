@@ -188,7 +188,7 @@ body{
     text-decoration: none;
 }
 .service-booing{
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7));
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(file:///C:/Users/ronaldo/Downloads/CarServ%20Free%20Website%20Template%20-%20Free-CSS.com/car-repair-html-template/img/carousel-bg-2.jpg) center center no-repeat;
     margin-top: 50px;
     background-size: cover;
     height:350px;
